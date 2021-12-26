@@ -1,4 +1,4 @@
-# Deep-Engine框架环境配置
+# Deep-Engine环境依赖
 
 ## 一、显卡驱动安装
 
