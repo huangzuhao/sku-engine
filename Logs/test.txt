@@ -1,0 +1,5 @@
+log is record by day.
+docker time maybe not china time ,if not,please reset it!
+bash order：
+rm -rf /etc/localtime
+ln -s /usr/share/zoneinfo/Asia/Shanghai  /etc/localtime
